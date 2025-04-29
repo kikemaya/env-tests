@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Another env variable {process.env.EXMPL}
+            Another env variable {process.env.EXMPL}!
           </li>
         </ol>
 
